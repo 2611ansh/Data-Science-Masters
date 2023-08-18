@@ -1,6 +1,6 @@
 # Data-Science-Masters
 
-## New libraries I didn't knew about before...
+## Things I didn't knew about before...
 
-1. ydata-profiling
+1. pandas-profiling
 2. TSNE
