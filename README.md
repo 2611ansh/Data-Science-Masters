@@ -1,6 +1,6 @@
 # Data-Science-Masters
 
-## new libraries i didn't knew about
+## new libraries I didn't knew about before...
 
-1. ydata-profiling #pandas-profiling
-2. TSNE #T-distributed Stochastic Neighbor Embedding
+1. ydata-profiling
+2. TSNE
