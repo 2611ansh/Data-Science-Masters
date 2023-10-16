@@ -5,3 +5,4 @@
 1. pandas-profiling
 2. TSNE
 3. flasgger
+4. streamlit
